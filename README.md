@@ -62,5 +62,7 @@ Ensure you have the following installed:
 ## Screenshots
 
 
-!(static/images/chatroom.png)
+![](ss1.png)
+
+![](ss2.png)
 
